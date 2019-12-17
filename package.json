@@ -1,0 +1,10 @@
+{
+	"name":"com.test.rotateme",
+	"version":"2.0.0",
+	"displayName":"Rotate Me",
+	"description":"Rotate the object",
+	"unity":"2018.3",
+	"dependencies":{
+	
+	}
+}
